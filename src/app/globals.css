@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+
+@theme inline {
+   --font-dm-sans: var(--font-dm-sans);
+}
+
+
+/* home */
+
+.bg {
+  background-image: url("../components/assests/home.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* count bg */
+
+.count{
+  background-image: url("../components/assests/count.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* about */
+
+.about{
+  background-image: url("../components/assests/ab.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* admission */
+
+.admission{
+  background-image: url("../components/assests/admission.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.line{
+  background-image: url("../components/assests/linewave.jpg");
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+/*blog*/
+.blog{
+  background-image: url("../components/assests/blog.jpg");
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile{
+  background-image:url("../components/assests/tiwari.png") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.trending{
+  background-image:url("../components/assests/team.jpg") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.frame{
+  background-image:url("../components/assests/blogdet.png") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.person{
+  background-image:url("../components/assests/persons.png") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mechanic{
+   background-image:url("../components/assests/mechanicblog.png") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carcom{
+  background-image:url("../components/assests/carcom.png") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* contact */
+
+.contact{
+  background-image: url("../components/assests/bg-contact.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.terms{
+  background-image: url("../components/assests/terms.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.privacy{
+  background-image: url("../components/assests/privacy.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.scholar{
+  background-image: url("../components/assests/scholarship.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.diploma{
+  background-image: url("../components/assests/diploma.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.vec1{
+  background-image: url("../components/assests/1v.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.vec2{
+  background-image: url("../components/assests/2v.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.vec3{
+  background-image: url("../components/assests/3v.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.faq{
+  background-image: url("../components/assests/faq.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+.profileedit{
+  background-image: url("../components/assests/profileedit.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.chatbot{
+  background-image: url("../components/assests/chatbot.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+
+
+
+
+.slick-dots li button:before {
+  color: #45D2FF !important;
+  opacity: 0.6;
+}
+.slick-dots li.slick-active button:before {
+  color: #45D2FF !important;
+  opacity: 1;
+}
